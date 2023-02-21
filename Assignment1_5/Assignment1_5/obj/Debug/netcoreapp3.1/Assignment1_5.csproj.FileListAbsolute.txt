@@ -1,0 +1,13 @@
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\bin\Debug\netcoreapp3.1\Assignment1_5.exe
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\bin\Debug\netcoreapp3.1\Assignment1_5.deps.json
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\bin\Debug\netcoreapp3.1\Assignment1_5.runtimeconfig.json
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\bin\Debug\netcoreapp3.1\Assignment1_5.runtimeconfig.dev.json
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\bin\Debug\netcoreapp3.1\Assignment1_5.dll
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\bin\Debug\netcoreapp3.1\Assignment1_5.pdb
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\obj\Debug\netcoreapp3.1\Assignment1_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\obj\Debug\netcoreapp3.1\Assignment1_5.AssemblyInfoInputs.cache
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\obj\Debug\netcoreapp3.1\Assignment1_5.AssemblyInfo.cs
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\obj\Debug\netcoreapp3.1\Assignment1_5.csproj.CoreCompileInputs.cache
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\obj\Debug\netcoreapp3.1\Assignment1_5.dll
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\obj\Debug\netcoreapp3.1\Assignment1_5.pdb
+C:\Users\SADEVASI\source\C sharp\Assignment1_5\Assignment1_5\obj\Debug\netcoreapp3.1\Assignment1_5.genruntimeconfig.cache

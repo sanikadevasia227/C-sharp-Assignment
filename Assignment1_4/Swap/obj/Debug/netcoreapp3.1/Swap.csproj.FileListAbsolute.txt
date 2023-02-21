@@ -1,0 +1,14 @@
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.AssemblyReference.cache
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.pdb
+C:\Users\SADEVASI\source\C sharp\Swap\Swap\obj\Debug\netcoreapp3.1\Swap.genruntimeconfig.cache

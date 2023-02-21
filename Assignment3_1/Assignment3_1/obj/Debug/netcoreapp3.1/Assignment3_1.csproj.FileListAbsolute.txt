@@ -1,0 +1,13 @@
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\bin\Debug\netcoreapp3.1\Assignment3_1.exe
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\bin\Debug\netcoreapp3.1\Assignment3_1.deps.json
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\bin\Debug\netcoreapp3.1\Assignment3_1.runtimeconfig.json
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\bin\Debug\netcoreapp3.1\Assignment3_1.runtimeconfig.dev.json
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\bin\Debug\netcoreapp3.1\Assignment3_1.dll
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\bin\Debug\netcoreapp3.1\Assignment3_1.pdb
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\obj\Debug\netcoreapp3.1\Assignment3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\obj\Debug\netcoreapp3.1\Assignment3_1.AssemblyInfoInputs.cache
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\obj\Debug\netcoreapp3.1\Assignment3_1.AssemblyInfo.cs
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\obj\Debug\netcoreapp3.1\Assignment3_1.csproj.CoreCompileInputs.cache
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\obj\Debug\netcoreapp3.1\Assignment3_1.dll
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\obj\Debug\netcoreapp3.1\Assignment3_1.pdb
+C:\Users\SADEVASI\source\C sharp\Assignment3_1\Assignment3_1\obj\Debug\netcoreapp3.1\Assignment3_1.genruntimeconfig.cache
